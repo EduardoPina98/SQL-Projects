@@ -7,8 +7,7 @@ This project involves cleaning and preparing [World Layoffs](https://github.com/
 ---
 
 ### [World Layoffs EDA](https://github.com/EduardoPina98/SQL-Projects/blob/main/Project%20-%20Exploratory%20Data%20Analysis.sql)
-**Key Skills**: CTEs, Window Functions, Data Aggregation, Data Type Conversion
-
+**Key Skills**: CTEs, Window Functions, Data Aggregation, Data Type Conversion 
 This project focuses on exploratory data analysis of layoff data to identify key trends and insights regarding workforce reductions across various companies and industries.
 
 ---
